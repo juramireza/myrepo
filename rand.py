@@ -1,2 +1,2 @@
 import numpy as np
-print(np.random.uniform())
+print(np.random.normal())
